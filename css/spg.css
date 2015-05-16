@@ -1,0 +1,26 @@
+
+body { font-weight: 400; }
+.navbar-brand { line-height: 38px; height:58px; }
+.navbar-nav li a { margin-top: 10px; font-size: 15px; }
+.navbar-toggle { margin-top: 13px; }
+.navbar-toggle .icon-bar { width: 26px; height: 3px;}
+.btn .btn-primary .pull-right { margin-right: 10px;}
+#main_content { height: 200px; margin-top: 70px}
+.btn { font-weight: 400 !important; }
+.navbar-default .navbar-nav>li>a { color: #ffffff; }
+.header-btn { margin-top: 10px; margin-right: 10px;}
+
+label, .radio label, .checkbox label, .help-block {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+html, body {
+    height: 100%;
+}
+
+#menu_logo_orig {
+    display: inline;
+    position: relative;
+    height: 80%;
+}
