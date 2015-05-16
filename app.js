@@ -1,1 +1,1 @@
-var myApp=angular.module("TeachingTechniques",["ui.router"]);
+var myApp=angular.module("TeachingTechniques",[]);angular.module("TeachingTechniques");
