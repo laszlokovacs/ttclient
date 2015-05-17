@@ -1,2 +1,2 @@
-angular.module("TeachingTechniques");
+angular.module("SPG");
 

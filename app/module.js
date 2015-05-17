@@ -1,1 +1,1 @@
-var myApp=angular.module("TeachingTechniques",[]);
+var myApp=angular.module("SPG",[]);
